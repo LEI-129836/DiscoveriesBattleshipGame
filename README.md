@@ -35,3 +35,13 @@ Nesta versão do jogo usamos os navios do tempo das Descobertas. Cada jogador te
 4. **Resposta:** o adversário informa o resultado da rajada: se acertou em algum navio (e de que tipo) e quais foram os tiros na água.
 5. **Registo:** cada jogador regista na grelha do oponente o resultado dos seus tiros, identificando os navios afundados.
 6. **Vitória:** ganha o primeiro jogador que atingir todos os navios da frota adversária.
+
+## 🗞️ Informação sobre os navios
+
+1. [Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
+2. [Fragata](https://pt.wikipedia.org/wiki/Fragata)
+3. [Nau](https://pt.wikipedia.org/wiki/Nau)
+4. [Caravela](https://pt.wikipedia.org/wiki/Caravela)
+5. [Barca](https://pt.wikipedia.org/wiki/Barca)
+
+
