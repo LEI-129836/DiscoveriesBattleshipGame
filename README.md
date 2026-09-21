@@ -3,7 +3,7 @@
 Basic academic version of Battleship game to build upon.
 
 ## Group 
-TP06_LEI-10
+TP06_LEI-10<br>
 Nickname: 
 
 ### Members:
