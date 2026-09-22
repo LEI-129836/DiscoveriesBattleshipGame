@@ -27,6 +27,14 @@ Nesta versão do jogo usamos os navios do tempo das Descobertas. Cada jogador te
 | Caravela               | Caravel | Navio de 2 canhões           | 2        | 3            |
 | Barca                  | Barge   | Submarino                    | 1        | 4            |
 
+## 🗞️ Informação sobre os navios
+
+1. [Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
+2. [Fragata](https://pt.wikipedia.org/wiki/Fragata)
+3. [Nau](https://pt.wikipedia.org/wiki/Nau)
+4. [Caravela](https://pt.wikipedia.org/wiki/Caravela)
+5. [Barca](https://pt.wikipedia.org/wiki/Barca)
+
 ## 📜 Regras do jogo
 
 1. **Grelhas:** cada jogador tem duas grelhas de 10×10 quadrados, uma para o *seu mar* e outra para o *mar do adversário*. As posições são identificadas por (linha, coluna), de 0 a 9.
@@ -36,12 +44,6 @@ Nesta versão do jogo usamos os navios do tempo das Descobertas. Cada jogador te
 5. **Registo:** cada jogador regista na grelha do oponente o resultado dos seus tiros, identificando os navios afundados.
 6. **Vitória:** ganha o primeiro jogador que atingir todos os navios da frota adversária.
 
-## 🗞️ Informação sobre os navios
 
-1. [Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
-2. [Fragata](https://pt.wikipedia.org/wiki/Fragata)
-3. [Nau](https://pt.wikipedia.org/wiki/Nau)
-4. [Caravela](https://pt.wikipedia.org/wiki/Caravela)
-5. [Barca](https://pt.wikipedia.org/wiki/Barca)
 
 
