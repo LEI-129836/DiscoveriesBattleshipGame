@@ -14,13 +14,16 @@ Nickname: NickLegal123
 | Francisco Silva | 129868 |
 | Ricardo Paiva   | 129822 |
 
+repositório criada por Tomás Costa<br>
+username github LEI-129836<br>
+número mais baixo do grupo quando foi criado o repositório
 
 ## ⚓ Tipos de navios
 
 Nesta versão do jogo usamos os navios do tempo das Descobertas. Cada jogador tem uma frota de **11 navios**, que ocupam ao todo 25 quadrados da grelha.
 
 | Navio (Descobrimentos) | English | Equivalente na Batalha Naval | Dimensão | Nº de navios |
-|------------------------|---------|------------------------------|:--------:|:------------:|
+|:----------------------:|:-------:|:----------------------------:|:--------:|:------------:|
 | Galeão                 | Galleon | Porta-aviões                 | 5        | 1            |
 | Fragata                | Frigate | Navio de 4 canhões           | 4        | 1            |
 | Nau                    | Carrack | Navio de 3 canhões           | 3        | 2            |
@@ -43,7 +46,5 @@ Nesta versão do jogo usamos os navios do tempo das Descobertas. Cada jogador te
 4. **Resposta:** o adversário informa o resultado da rajada: se acertou em algum navio (e de que tipo) e quais foram os tiros na água.
 5. **Registo:** cada jogador regista na grelha do oponente o resultado dos seus tiros, identificando os navios afundados.
 6. **Vitória:** ganha o primeiro jogador que atingir todos os navios da frota adversária.
-
-
 
 
