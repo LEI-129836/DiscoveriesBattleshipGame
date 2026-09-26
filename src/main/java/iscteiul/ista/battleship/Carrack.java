@@ -3,13 +3,28 @@
  */
 package iscteiul.ista.battleship;
 
+/**
+ * Represents a Carrack ship in the Battleship game.
+ *
+ * <p>A Carrack occupies three consecutive positions on the board.
+ * Its positions are determined by its initial position and bearing.
+ * For a north/south bearing, the ship is positioned vertically;
+ * for an east/west bearing, it is positioned horizontally.</p>
+ */
 public class Carrack extends Ship {
     private static final Integer SIZE = 3;
     private static final String NAME = "Nau";
 
     /**
-     * @param bearing
-     * @param pos
+     * Creates a Carrack with the specified bearing and initial position.
+     *
+     * <p>The Carrack occupies {@value #SIZE} consecutive positions
+     * starting at the given position. The positions are calculated
+     * according to the specified bearing.</p>
+     *
+     * @param bearing the bearing that determines the direction of the Carrack
+     * @param pos     the initial position of the Carrack
+     * @throws IllegalArgumentException if the bearing is invalid
      */
     public Carrack(Compass bearing, IPosition pos) throws IllegalArgumentException {
         super(Carrack.NAME, bearing, pos);
@@ -29,10 +44,10 @@ public class Carrack extends Ship {
         }
     }
 
-    /*
-     * (non-Javadoc)
+    /**
+     * Returns the size of the Carrack.
      *
-     * @see battleship.Ship#getSize()
+     * @return the size of the ship
      */
     @Override
     public Integer getSize() {
