@@ -1,6 +1,6 @@
-# Battleship
+# Batalha Naval
 
-Basic academic version of Battleship game to build upon.
+> Uma versão académica e moderna do clássico jogo Batalha Naval, ambientada na Época dos Descobrimentos e desenvolvida no âmbito da UC de Engenharia de Software.
 
 ## Group 
 TP06_LEI-10<br>
