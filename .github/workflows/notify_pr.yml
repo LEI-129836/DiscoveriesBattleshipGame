@@ -1,9 +1,12 @@
 name: Notificar Revisor do PR
 
-# Executa sempre que um Pull Request é aberto ou marcado como pronto para revisão
 on:
   pull_request:
     types: [opened, ready_for_review]
+
+permissions:
+  issues: write
+  pull-requests: write
 
 jobs:
   notify:
