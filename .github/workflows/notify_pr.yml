@@ -1,0 +1,21 @@
+name: Notificar Revisor do PR
+
+# Executa sempre que um Pull Request é aberto ou marcado como pronto para revisão
+on:
+  pull_request:
+    types: [opened, ready_for_review]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comentar no PR para avisar a equipa
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '🔔 **Aviso Automático:** Novo Pull Request submetido para revisão! Por favor, vejam as alterações e façam o merge se estiver tudo correto.'
+            })
