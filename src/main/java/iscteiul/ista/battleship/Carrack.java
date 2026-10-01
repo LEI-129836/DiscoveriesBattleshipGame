@@ -12,7 +12,7 @@ package iscteiul.ista.battleship;
  * for an east/west bearing, it is positioned horizontally.</p>
  */
 public class Carrack extends Ship {
-    private static final Integer SIZE = 3;
+    private static final int SIZE = 3;
     private static final String NAME = "Nau";
 
     /**
