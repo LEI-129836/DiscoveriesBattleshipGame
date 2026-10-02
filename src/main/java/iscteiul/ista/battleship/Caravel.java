@@ -11,7 +11,7 @@ package iscteiul.ista.battleship;
  * for an east/west bearing, it is positioned horizontally.</p>
  */
 public class Caravel extends Ship {
-    private static final Integer SIZE = 2;
+    private static final int SIZE = 2;
     private static final String NAME = "Caravela";
 
     /**
@@ -58,4 +58,3 @@ public class Caravel extends Ship {
         return SIZE;
     }
 }
-

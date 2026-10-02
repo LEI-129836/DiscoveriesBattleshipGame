@@ -8,7 +8,7 @@ package iscteiul.ista.battleship;
  * <p>A barge occupies a single position on the game board.</p>
  */
 public class Barge extends Ship {
-    private static final Integer SIZE = 1;
+    private static final int SIZE = 1;
     private static final String NAME = "Barca";
 
     /**
